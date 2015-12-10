@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.demo.list.viewpager.activity.SimpleFragmentActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:baselineAligned="false">
+        <LinearLayout
+            style="@style/main_top_tab_item">
+            <TextView
+                android:id="@+id/main_top_tab_tv1"
+                style="@style/main_top_tab_item.title"
+                android:text="@string/main_top_tab_label1"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/main_top_tab_item">
+            <TextView
+                android:id="@+id/main_top_tab_tv2"
+                style="@style/main_top_tab_item.title"
+                android:text="@string/main_top_tab_label2"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/main_top_tab_item">
+            <TextView
+                android:id="@+id/main_top_tab_tv3"
+                style="@style/main_top_tab_item.title"
+                android:text="@string/main_top_tab_label3"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/main_top_tab_item">
+            <TextView
+                android:id="@+id/main_top_tab_tv4"
+                style="@style/main_top_tab_item.title"
+                android:text="@string/main_top_tab_label4"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/main_top_tab_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="tab"
+        android:background="@drawable/tab_selected_pressed_holo" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/main_top_tab_divider"/>
+
+</LinearLayout>

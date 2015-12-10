@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--主界面文字-->
+    <string name="main_top_tab_label1">键盘</string>
+    <string name="main_top_tab_label2">记录</string>
+    <string name="main_top_tab_label3">收藏夹</string>
+    <string name="main_top_tab_label4">联系人</string>
+    <string name="title_activity_simple_fragment">SimpleFragmentActivity</string>
+    <string name="title_activity_view_flipper">ViewFlipperActivity</string>
+    <string name="title_activity_view_flipper2">ViewFlipperActivity2</string>
+    <string name="title_activity_vp_color">ViewPageColor</string>
+    <string name="title_activity_vp_indicator">ViewPageIndicator</string>
+    <string name="title_activity_vp_parallax">ViewPageParallax</string>
+</resources>

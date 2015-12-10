@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_demo_label">
+        <item>"Simple ViewPager"</item>
+        <item>"ViewFlipper静态加载"</item>
+        <item>"ViewFlipper动态加载"</item>
+        <item>"ViewPage - HSV颜色过渡"</item>
+        <item>"ViewPage - Indicator动画"</item>
+        <item>"ViewPage - ParallaxAnim"</item>
+        <item>"ViewFlow"</item>
+    </string-array>
+</resources>

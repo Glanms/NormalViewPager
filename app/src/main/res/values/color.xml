@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主界面 -->
+    <color name="main_top_tab_title">#f23a3a3a</color>
+    <color name="main_top_tab_border_normal">#bb104be8</color>
+    <color name="main_top_tab_border_clicked">#ca112d80</color>
+    <color name="main_top_tab_divider">#ca02040b</color>
+    <color name="main_top_tab_text_normal">#e5090909</color>
+    <color name="main_top_tab_text_actived">#31b8ee</color>
+    <color name="main_top_tab_bg_normal">#b2e1e1e1</color>
+    <color name="main_top_tab_bg_actived">#8effffff</color>
+
+
+
+</resources>
